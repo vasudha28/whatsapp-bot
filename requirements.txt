@@ -1,0 +1,7 @@
+Flask
+google-generativeai
+pymupdf
+gspread
+oauth2client
+schedule
+python-dateutil
